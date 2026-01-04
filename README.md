@@ -118,7 +118,7 @@ Find Microsoft's' [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBU
 - assignment
 - post-lecture quiz
 
-> **A note about quizzes**: All quizzes are contained [in this app](https://gray-sand-07a10f403.1.azurestaticapps.net/), for 52 total quizzes of three questions each. They are linked from within the lessons. Multiple lessons will be contained in Sessions, which are the sessions you'll also see at Moodle.
+> **A note about quizzes**: All quizzes are contained [in this app](https://ff-quizzes.netlify.app/en/ml/), for 52 total quizzes of three questions each. They are linked from within the lessons. Multiple lessons will be contained in Sessions, which are the sessions you'll also see at Moodle.
 
 Below is a preliminary schedule, which mainly follows Microsoft's ML for beginners, from our own fork at [https://github.com/SMC-AAU-CPH/ML-For-Beginners](https://github.com/SMC-AAU-CPH/ML-For-Beginners)
 
