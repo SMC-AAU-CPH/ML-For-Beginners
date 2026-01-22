@@ -1,4 +1,4 @@
-name: MLME-23
+name: Workshop8-RL
 channels:
   - conda-forge
   - defaults
@@ -165,4 +165,3 @@ dependencies:
   - zstd=1.5.5=hfc55251_0
   - pip:
       - pygame==2.1.0
-prefix: /home/ernests/miniconda3/envs/MLME-23
